@@ -1,4 +1,4 @@
-# MERN Stack Project
+# Workout Buddy
 
 A simple full-stack application built using the MERN (MongoDB, Express.js, React, Node.js) stack. I followed Net Ninja's MERN Stack Youtube Tutorial.
 ## Features
